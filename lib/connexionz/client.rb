@@ -22,5 +22,9 @@ module Connexionz
        get("rtt/public/utility/file.aspx?contenttype=SQLXML&Name=ScheduleMaster.xml", options)
     end
     
+    def schedule_detail(servicename, options={})
+       get("rtt/public/utility/file.aspx?contenttype=SQLXML&Name=ScheduleDetail.xml&ServiceName=#{servicename}", options)
+    end
+    
   end
 end
