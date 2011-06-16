@@ -14,5 +14,9 @@ module Connexionz
        get("rtt/public/utility/file.aspx?contenttype=SQLXML&Name=PlatformGroup.xml", options)
     end
     
+    def route_position_et(options={})
+       get("rtt/public/utility/file.aspx?contenttype=SQLXML&Name=RoutePositionET.xml", options)
+    end
+    
   end
 end
