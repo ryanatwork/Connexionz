@@ -8,7 +8,11 @@ module Connexionz
     
     def platform(options={})
        get("rtt/public/utility/file.aspx?contenttype=SQLXML&Name=Platform.xml", options)
-     end
+    end
+    
+    def platform_group(options={})
+       get("rtt/public/utility/file.aspx?contenttype=SQLXML&Name=PlatformGroup.xml", options)
+    end
     
   end
 end
