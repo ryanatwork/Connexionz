@@ -22,7 +22,7 @@ describe Connexionz::Client do
   describe "#route_position_et" do
     it "should return the ET for the current bus stop" do
       test = @client.route_position_et({:platformno => "16890"})
-      test.routepositionet.platform.platformtag.should == "McBean Pky & Valencia Blvd"
+      test.route_position_et.platform.name.should == "McBean Pky & Valencia Blvd"
     end
   end
   
