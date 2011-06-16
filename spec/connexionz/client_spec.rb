@@ -26,4 +26,12 @@ describe Connexionz::Client do
     end
   end
   
+  describe "#schedule_master" do
+    it "should return the master schedule list" do
+      test = @client.schedule_master
+      test.schedule_master.project.schedule.route[0].name.should == "Whites Cyn/Castaic"
+    end
+  end
+
+  
 end
