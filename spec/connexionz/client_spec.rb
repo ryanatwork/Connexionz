@@ -15,7 +15,7 @@ describe Connexionz::Client do
   describe "#platform_group" do
     it "should return a list of all the platforms" do
       test = @client.platform_group
-      test.platformgoups.platformgroup[1].name.should == "Ave Stanford & Rye Cyn"
+      test.platform_groups.platform_group[1].name.should == "Ave Stanford & Rye Cyn"
     end
   end
   
