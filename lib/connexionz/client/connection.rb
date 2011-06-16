@@ -11,7 +11,7 @@ module Connexionz
           connection.use Faraday::Response::RaiseError
           connection.use Faraday::Response::Rashify
           connection.use Faraday::Response::ParseXml
-          connection.adapter(Faraday.default_adapter)
+          connection.adapter :patron
         end
       end
     end
