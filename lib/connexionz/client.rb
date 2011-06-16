@@ -18,5 +18,9 @@ module Connexionz
        get("rtt/public/utility/file.aspx?contenttype=SQLXML&Name=RoutePositionET.xml", options)
     end
     
+    def schedule_master(options={})
+       get("rtt/public/utility/file.aspx?contenttype=SQLXML&Name=ScheduleMaster.xml", options)
+    end
+    
   end
 end
