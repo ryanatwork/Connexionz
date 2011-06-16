@@ -32,6 +32,12 @@ describe Connexionz::Client do
       test.schedule_master.project.schedule.route[0].name.should == "Whites Cyn/Castaic"
     end
   end
-
+  
+  describe "#schedule_detail" do
+    it "should return the schedule detail for the correct route id" do
+      test = @client.schedule_detail("Weekday",{:id => "1"})
+      test.schedule_detail.route.destination_group.name.should == "Castaic to Whites Cyn"
+    end
+  end
   
 end
