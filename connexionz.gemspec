@@ -6,9 +6,9 @@ Gem::Specification.new do |gem|
   gem.version     = Connexionz::VERSION
   gem.author      = "Ryan Resella"
   gem.email       = 'ryan@codeforamerica.org'
-  gem.homepage    = ''
-  gem.summary     = %q{TODO: Write a gem summary}
-  gem.description = %q{TODO: Write a gem description}
+  gem.homepage    = 'https://github.com/ryanatwork/connexionz/'
+  gem.summary     = gem.description
+  gem.description = %q{A Ruby wrapper for the Connexionz bus api}
 
   gem.files         = `git ls-files`.split("\n")
   gem.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
