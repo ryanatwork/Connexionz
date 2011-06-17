@@ -3,9 +3,18 @@ require 'connexionz/client/request'
 
 module Connexionz
   class Client
+    attr_accessor *Configuration::VALID_OPTIONS_KEYS
+    
+    def initialize(options={})
+      options = Connexionz.options.merge(options)
+      Configuration::VALID_OPTIONS_KEYS.each do |key|
+        send("#{key}=", options[key])
+      end
+    end
+    
     include Connexionz::Client::Connection
     include Connexionz::Client::Request
-    
+        
     # Returns all platform locations (WGS84), Id’s & names.
     #
     # @param options [Hash] A customizable set of options. 

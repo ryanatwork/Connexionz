@@ -4,14 +4,18 @@ module Connexionz
   class Client
     module Connection
       private
+      
+      def connection(raw=false)
+        options = {
+          :url => endpoint
+        }
 
-      def connection
-        Faraday.new(:url => 'http://businfo.santa-clarita.com/') do |connection|
+        Faraday.new(options) do |connection|
           connection.use Faraday::Request::UrlEncoded
           connection.use Faraday::Response::RaiseError
           connection.use Faraday::Response::Rashify
           connection.use Faraday::Response::ParseXml
-          connection.adapter :patron
+          connection.adapter (adapter)
         end
       end
     end
