@@ -26,6 +26,16 @@ module Connexionz
        get("rtt/public/utility/file.aspx?contenttype=SQLXML&Name=PlatformGroup.xml", options)
     end
  
+    # Route patterns, details all the route patterns (described in the MapInfo MIB/MIF CDATA entities) in the system & the associated platforms. Use PlatformTag to link to the platform locations.
+    #
+    # @param options [Hash] A customizable set of options. 
+    # @return {Hash}
+    # @example
+    #   Connexionz.route_pattern     
+    #def route_pattern(options={})
+    #   get("rtt/public/utility/file.aspx?contenttype=SQLXML&Name=RoutePattern.rxml", options)
+    #end
+    
     # Provide ETA predictions for an individual platform or platform group.Use PlatformTag (internal key to a platform) or PlatformNo (number physically attached to a bus stop which may change from time to time) arguments.
     #
     # @param options [Hash] A customizable set of options. 

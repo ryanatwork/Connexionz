@@ -19,6 +19,13 @@ describe Connexionz::Client do
     end
   end
   
+  #describe "#route_pattern" do
+  #  it "should return all the route patterns" do
+  #    test = @client.route_pattern
+  #    test.routepattern.project.route.destination_name = "Ave Stanford & Rye Cyn"
+  #  end
+  #end
+  
   describe "#route_position_et" do
     it "should return the ET for the current bus stop" do
       test = @client.route_position_et({:platformno => "16890"})
