@@ -2,7 +2,7 @@ require 'helper'
 
 describe Connexionz::Client do
   before do
-    @client = Connexionz.new
+    @client = Connexionz::Client.new({:endpoint => "http://businfo.santa-clarita.com/"})
   end
   
   describe "#platform" do
