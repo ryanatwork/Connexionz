@@ -1,6 +1,6 @@
 # Connexionz API
 
-Ruby wrapper for the Connexionz API 
+Ruby wrapper for the Connexionz API
 
 Installation
 ------------
@@ -12,7 +12,7 @@ Documentation
 
 Continuous Integration
 ----------------------
-[![Build Status](http://travis-ci.org/ryanatwork/Connexionz.png)](http://travis-ci.org/ryanatwork/Connexionz)
+[![Build Status](https://travis-ci.org/ryanatwork/Connexionz.png)](http://travis-ci.org/ryanatwork/Connexionz)
 
 Usage Examples
 --------------
@@ -65,7 +65,7 @@ Submitting a Pull Request
 
 Credits
 -------
-[Connexionz](http://www.connexionz.co.nz/) 
+[Connexionz](http://www.connexionz.co.nz/)
 
 Inspiration
 -----------
