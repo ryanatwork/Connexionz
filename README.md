@@ -12,7 +12,7 @@ Documentation
 
 Continuous Integration
 ----------------------
-[![Build Status](https://travis-ci.org/ryanatwork/Connexionz.png)](http://travis-ci.org/ryanatwork/Connexionz)
+[![Build Status](https://secure.travis-ci.org/ryanatwork/Connexionz.png)](http://travis-ci.org/ryanatwork/Connexionz)
 
 Usage Examples
 --------------
