@@ -15,7 +15,6 @@ Gem::Specification.new do |gem|
   gem.executables   = `git ls-files -- bin/*`.split("\n").map{|f| File.basename(f)}
   gem.require_paths = ['lib']
 
-  gem.add_development_dependency 'ZenTest', '~> 4.5'
   gem.add_development_dependency 'maruku', '~> 0.6'
   gem.add_development_dependency 'rake', '~> 0.9'
   gem.add_development_dependency 'rspec', '~> 2.6'
@@ -28,6 +27,6 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'hashie', '~> 1.0.0'
   gem.add_runtime_dependency 'multi_json', '~> 1.0.2'
   gem.add_runtime_dependency 'multi_xml', '~> 0.2.2'
-  gem.add_runtime_dependency 'patron', '~> 0.4.9'
+  gem.add_runtime_dependency 'patron', '~> 0.4.14'
   gem.add_runtime_dependency 'rash', '~> 0.3.0'
 end
