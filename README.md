@@ -74,4 +74,4 @@ Connexionz was heavily inspired by the [https://github.com/codeforamerica/gem_te
 Copyright
 ---------
 Copyright (c) 2011 Ryan Resella
-See [LICENSE](https://github.com/ryanatwork/connexionz/blob/master/LICENSE) for details.
+See [LICENSE](https://github.com/ryanatwork/connexionz/blob/master/LICENSE.md) for details.
