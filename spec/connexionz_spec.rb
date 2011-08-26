@@ -4,7 +4,7 @@ describe Connexionz do
   after do
     Connexionz.reset
   end
-  
+
   describe ".respond_to?" do
     it "should be true if method exists" do
       Connexionz.respond_to?(:client, true).should be_true
@@ -16,5 +16,4 @@ describe Connexionz do
       Connexionz.client.should be_a Connexionz::Client
     end
   end
-  
 end
