@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<ScheduleMaster xmlns="urn:connexionz-co-nz">
+  <Content Expires="2011-08-28T03:32:00-07:00" />
+  <Project ProjectID="SCT" Name="Santa Clarita Transit">
+    <Schedule ValidFrom="2011-08-19T00:00:00">
+      <Route RouteNo="1" Name="Whites Cyn/Castaic">
+        <DestinationGroup Name="Castaic to Whites Cyn" ID="1">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Whites Cyn to Castaic" ID="2">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="2" Name="Whites Cyn/Val Verde">
+        <DestinationGroup Name="Val Verde to Whites Cyn" ID="3">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Whites Cyn to Val Verde" ID="4">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="3" Name="Magic Mountain/Seco Canyon">
+        <DestinationGroup Name="Magic Mountain to Seco Cyn" ID="5">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Seco Cyn to Magic Mountain" ID="6">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="4" Name="Bouquet Cyn/Newhall Metrolink">
+        <DestinationGroup Name="Bouquet Cyn to Newhall Metrolink" ID="7">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Newhall Metrolink to Bouquet Cyn" ID="8">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="5" Name="Stevenson Ranch/Vasquez Cyn">
+        <DestinationGroup Name="Stevenson Ranch to Vasquez Cyn" ID="9">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Vasquez Cyn to Stevenson Ranch" ID="10">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="6" Name="Stevenson Ranch/Shadow Pines">
+        <DestinationGroup Name="Shadow Pines to Stevenson Ranch" ID="11">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Stevenson Ranch to Shadow Pines" ID="12">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="7" Name="Magic Mountain/Seco Canyon">
+        <DestinationGroup Name="Magic Mountain to Seco Cyn" ID="13">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Seco Cyn to Magic Mountain" ID="14">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="14" Name="Plum Cyn/Newhall Metro">
+        <DestinationGroup Name="Newhall Metrolink to Plum Cyn" ID="15">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Plum Cyn to Newhall Metrolink" ID="16">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="100" Name="Valencia/Santa Monica">
+        <DestinationGroup Name="Santa Clarita" ID="17">
+          <Service Name="Saturday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Santa Monica" ID="18">
+          <Service Name="Saturday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="101" Name="Santa Monica/Canyon Country">
+        <DestinationGroup Name="Canyon Country" ID="19">
+          <Service Name="Saturday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Santa Monica" ID="20">
+          <Service Name="Saturday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="102" Name="Santa Monica/Santa Clarita">
+        <DestinationGroup Name="Santa Monica" ID="21">
+          <Service Name="Sunday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="501" Name="Magic Mountain">
+        <DestinationGroup Name="SC Metrolink to Magic Mountain" ID="22">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="502" Name="Commerce Center">
+        <DestinationGroup Name="Commerce Center to SC Metrolink" ID="23">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="SC Metrolink to Commerce Center" ID="24">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="620" Name="Saugus High">
+        <DestinationGroup Name="Arroyo Seco Jr High to Seco Canyon" ID="25">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="LARC to Bouquet &amp; Centurion" ID="26">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="621" Name="Saugus High">
+        <DestinationGroup Name="Heller Cir to Arroyo Seco Jr High" ID="27">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Saugus High to Plum Cyn" ID="28">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="622" Name="Rio Norte Jr High">
+        <DestinationGroup Name="Copper Hill to Rio Norte Jr High" ID="29">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Rio Norte Jr High to Copper Hill" ID="30">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="623" Name="Rio Norte Jr High">
+        <DestinationGroup Name="Rio Norte Jr High to Copper Hill" ID="31">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Rose Canyon to Rio Norte Jr High" ID="32">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="624" Name="Valencia High">
+        <DestinationGroup Name="Rose Canyon to Valencia High" ID="33">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Valencia High to Copper Hill" ID="34">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="625" Name="Valencia High">
+        <DestinationGroup Name="Copper Hill to Valencia High" ID="35">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Valencia High to Copper Hill" ID="36">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="626" Name="La Mesa Jr High">
+        <DestinationGroup Name="Canyon Park to La Mesa Jr High" ID="37">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="La Mesa Jr High to Canyon Park" ID="38">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="627" Name="La Mesa Jr High">
+        <DestinationGroup Name="La Mesa Jr High to Valle Del Oro" ID="39">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Valle Del Oro to La Mesa Jr High" ID="40">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="628" Name="Golden Valley High">
+        <DestinationGroup Name="Canyon Park to Golden Valley High" ID="41">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Golden Valley High to Canyon Park" ID="42">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="629" Name="Golden Valley High">
+        <DestinationGroup Name="Golden Valley High to Canyon Park" ID="43">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Railroad Ave to Golden Valley High" ID="44">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="631" Name="Valencia High School">
+        <DestinationGroup Name="MRTC to Val Verde" ID="45">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="632" Name="Canyon High">
+        <DestinationGroup Name="Shadow Pines to Canyon High" ID="46">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="633" Name="Saugus High">
+        <DestinationGroup Name="Saugus High to Seco Canyon" ID="47">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="634" Name="West Ranch/Rancho Pico">
+        <DestinationGroup Name="Pico Cyn to Rancho Pico Jr High" ID="48">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Pico Cyn to West Ranch High" ID="49">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Rancho Pico Jr High to Newhall" ID="50">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="West Ranch High to Newhall" ID="51">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="635" Name="West Ranch/Rancho Pico">
+        <DestinationGroup Name="MRTC to Rancho Pico Jr High" ID="52">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="636" Name="West Ranch High">
+        <DestinationGroup Name="Castaic to West Ranch High" ID="53">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="West Ranch High to Castaic" ID="54">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="637" Name="Arroy Seco/Saugas">
+        <DestinationGroup Name="Arroy Seco Jr High to Plum Cyn" ID="55">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Saugus High to Plum Cyn" ID="56">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="638" Name="Arroy Seco Jr High">
+        <DestinationGroup Name="Arroy Seco Jr High to Plum Cyn" ID="57">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="639" Name="Rancho Pico Jr High">
+        <DestinationGroup Name="Newhall to Rancho Pico Jr High" ID="58">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="640" Name="Arroyo Seco/Saugus">
+        <DestinationGroup Name="Arroyo Seco to Copper Hill" ID="59">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Copper Hill to Arroyo/Saugus" ID="60">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="757" Name="North Hollywood">
+        <DestinationGroup Name="North Hollywood to Santa Clarita" ID="61">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Santa Clarita to North Hollywood" ID="62">
+          <Service Name="Weekday" />
+          <Service Name="Saturday" />
+          <Service Name="Sunday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="791" Name="Warner Center">
+        <DestinationGroup Name="Santa Clarita to Warner Center" ID="63">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Warner Center to Santa Clarita" ID="64">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="792" Name="Century City">
+        <DestinationGroup Name="Century City to Santa Clarita" ID="65">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Santa Clarita to Century City" ID="66">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="794" Name="Union Station">
+        <DestinationGroup Name="Santa Clarita to Union Station" ID="67">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Union Station to Santa Clarita" ID="68">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="795" Name="Lancaster">
+        <DestinationGroup Name="Lancaster to Santa Clarita" ID="69">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Santa Clarita to Lancaster" ID="70">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="796" Name="Warner Center">
+        <DestinationGroup Name="Santa Clarita to Warner Center" ID="71">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Warner Center to Santa Clarita" ID="72">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="797" Name="Century City">
+        <DestinationGroup Name="Century City to Santa Clarita" ID="73">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Santa Clarita to Century City" ID="74">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+      <Route RouteNo="799" Name="Los Angeles">
+        <DestinationGroup Name="Los Angeles to Santa Clarita" ID="75">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+        <DestinationGroup Name="Santa Clarita to Los Angeles" ID="76">
+          <Service Name="Weekday" />
+        </DestinationGroup>
+      </Route>
+    </Schedule>
+  </Project>
+</ScheduleMaster>

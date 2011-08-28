@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<PlatformGroups xmlns="urn:connexionz-co-nz">
+  <Content Expires="2011-08-28T03:32:00-07:00" />
+  <PlatformGroup Name="Arroyo Seco Jr High">
+    <Platform PlatformTag="540" PlatformNo="16729" Name="Vista Delgado Dr &amp; Decoro Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="Ave Stanford &amp; Rye Cyn">
+    <Platform PlatformTag="218" PlatformNo="10995" Name="Ave Stanford &amp; Rye Canyon Rd" />
+    <Platform PlatformTag="226" PlatformNo="10969" Name="Ave Scott &amp; Ave Stanford" />
+  </PlatformGroup>
+  <PlatformGroup Name="Ave Stanford and Technology Dr">
+    <Platform PlatformTag="211" PlatformNo="10543" Name="Ave Stanford &amp; Technology Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="Ave Tibbitts &amp; Dickason">
+    <Platform PlatformTag="451" Name="Ave Tibbitts &amp; Nth Dickason Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="Bouquet &amp; Centurion">
+    <Platform PlatformTag="567" PlatformNo="14552" Name="Bouquet Canyon Rd &amp; Centurion Wy" />
+  </PlatformGroup>
+  <PlatformGroup Name="Calgrove">
+    <Platform PlatformTag="240" PlatformNo="10752" Name="Calgrove Blvd &amp; Creekside Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="Canyon High">
+    <Platform PlatformTag="709" PlatformNo="18033" Name="Whites Canyon Rd &amp; Nadal St" />
+  </PlatformGroup>
+  <PlatformGroup Name="Canyon Park">
+    <Platform PlatformTag="650" PlatformNo="18411" Name="Jason Dr &amp; Oakmont Dr" />
+    <Platform PlatformTag="710" PlatformNo="15049" Name="Sierra Hwy &amp; Canyon Prk Blvd" />
+  </PlatformGroup>
+  <PlatformGroup Name="Castaic">
+    <Platform PlatformTag="166" PlatformNo="18532" Name="Parker Rd &amp; Tobiah Pl" />
+  </PlatformGroup>
+  <PlatformGroup Name="Century City">
+    <Platform PlatformTag="56" PlatformNo="13415" Name="Constellation Blvd" />
+  </PlatformGroup>
+  <PlatformGroup Name="City Hall">
+    <Platform PlatformTag="425" PlatformNo="10279" Name="Valencia Blvd &amp; Citrus Dr" />
+    <Platform PlatformTag="426" PlatformNo="19060" Name="Valencia Blvd &amp; Citrus Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="College of Canyons">
+    <Platform PlatformTag="400" PlatformNo="10163" Name="Valencia Blvd &amp; Goldcrest Dr" />
+    <Platform PlatformTag="769" PlatformNo="14271" Name="COC" />
+    <Platform PlatformTag="847" Name="Rockwell Canyon Rd" />
+    <Platform PlatformTag="854" Name="COCCC" />
+  </PlatformGroup>
+  <PlatformGroup Name="Commerce Center">
+    <Platform PlatformTag="198" PlatformNo="10558" Name="Commerce Center Dr &amp; Harrison Pky" />
+    <Platform PlatformTag="199" PlatformNo="18940" Name="Commerce Center Dr &amp; Witherspoon Pky" />
+  </PlatformGroup>
+  <PlatformGroup Name="Copper Hill">
+    <Platform PlatformTag="512" PlatformNo="18131" Name="Copper Hill Dr &amp; Nth Prk Dr" />
+    <Platform PlatformTag="513" PlatformNo="11571" Name="Nth Prk Dr &amp; Copper Hill Dr" />
+    <Platform PlatformTag="585" PlatformNo="10493" Name="Tamarack Ln &amp; Lemon St" />
+    <Platform PlatformTag="587" PlatformNo="16740" Name="Copper Hill Dr &amp; Hidden Hills Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="Copper/Hidden Hills">
+    <Platform PlatformTag="512" PlatformNo="18131" Name="Copper Hill Dr &amp; Nth Prk Dr" />
+    <Platform PlatformTag="587" PlatformNo="16740" Name="Copper Hill Dr &amp; Hidden Hills Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="Decoro Dr &amp; Copper Hill">
+    <Platform PlatformTag="234" PlatformNo="15414" Name="Copper Hill Dr &amp; Decoro Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="Gateway Plaza">
+    <Platform PlatformTag="803" PlatformNo="19601" Name="Gateway Plz" />
+  </PlatformGroup>
+  <PlatformGroup Name="Golden Valley">
+    <Platform PlatformTag="630" PlatformNo="10747" Name="Golden Valley Rd" />
+    <Platform PlatformTag="631" PlatformNo="15422" Name="Golden Valley Rd &amp; Robert C. Lee Pky" />
+  </PlatformGroup>
+  <PlatformGroup Name="Jason/Oakmont">
+    <Platform PlatformTag="650" PlatformNo="18411" Name="Jason Dr &amp; Oakmont Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="LARC">
+    <Platform PlatformTag="514" PlatformNo="14146" Name="LARC" />
+  </PlatformGroup>
+  <PlatformGroup Name="La Mesa Jr High">
+    <Platform PlatformTag="663" PlatformNo="10924" Name="May Wy &amp; Citylight Ct" />
+    <Platform PlatformTag="668" PlatformNo="11321" Name="Rainbow Gln Dr &amp; Purple Martin Ct" />
+  </PlatformGroup>
+  <PlatformGroup Name="Lancaster Metrolink">
+    <Platform PlatformTag="15" PlatformNo="12449" Name="Sierra Hwy &amp; West Milling St" />
+  </PlatformGroup>
+  <PlatformGroup Name="Los Angeles">
+    <Platform PlatformTag="803" PlatformNo="19601" Name="Gateway Plz" />
+    <Platform PlatformTag="829" Name="7th St &amp; Spring St" />
+    <Platform PlatformTag="846" PlatformNo="12010" Name="Nth Spring St &amp; West Temple St" />
+    <Platform PlatformTag="855" PlatformNo="11833" Name="West 8th St &amp; Sth Grand Ave" />
+  </PlatformGroup>
+  <PlatformGroup Name="Lyons Ave &amp; Wiley Cyn">
+    <Platform PlatformTag="253" PlatformNo="19923" Name="Lyons Ave &amp; Wiley Canyon Rd" />
+    <Platform PlatformTag="254" PlatformNo="13086" Name="Lyons Ave &amp; Wiley Canyon Rd" />
+  </PlatformGroup>
+  <PlatformGroup Name="Magic Mtn">
+    <Platform PlatformTag="206" PlatformNo="10821" Name="Magic Mountain Pky" />
+    <Platform PlatformTag="207" PlatformNo="19459" Name="Off Feedmill Rd" />
+    <Platform PlatformTag="430" PlatformNo="10246" Name="McBean Pky &amp; Town Center Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="Newhall">
+    <Platform PlatformTag="240" PlatformNo="10752" Name="Calgrove Blvd &amp; Creekside Dr" />
+    <Platform PlatformTag="269" PlatformNo="19073" Name="Newhall Ave &amp; Sierra Hwy" />
+  </PlatformGroup>
+  <PlatformGroup Name="Newhall Metrolink">
+    <Platform PlatformTag="288" PlatformNo="11898" Name="Railroad Ave &amp; Market St" />
+    <Platform PlatformTag="290" PlatformNo="13853" Name="Railroad Ave &amp; 8th St" />
+  </PlatformGroup>
+  <PlatformGroup Name="North Hollywood">
+    <Platform PlatformTag="833" PlatformNo="19492" Name="North Hollywood Terminus" />
+    <Platform PlatformTag="834" PlatformNo="15255" Name="Lankershim Blvd &amp; Chandler Blvd" />
+  </PlatformGroup>
+  <PlatformGroup Name="Old Rd &amp; Sloan Cyn">
+    <Platform PlatformTag="160" PlatformNo="11015" Name="Royal Rd &amp; Gr Hill Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="Old Rd Silver Aspen">
+    <Platform PlatformTag="341" PlatformNo="11544" Name="The Old Rd &amp; Silver Aspen Wy" />
+  </PlatformGroup>
+  <PlatformGroup Name="Plum Cyn">
+    <Platform PlatformTag="599" PlatformNo="15229" Name="Bouquet Canyon Rd &amp; Plum Canyon Rd" />
+    <Platform PlatformTag="686" PlatformNo="14935" Name="Heller Cir" />
+  </PlatformGroup>
+  <PlatformGroup Name="Princessa ML">
+    <Platform PlatformTag="653" PlatformNo="19981" Name="Via Princessa &amp; Weyerhaeuser Wy" />
+  </PlatformGroup>
+  <PlatformGroup Name="Rancho Pico Jr High School">
+    <Platform PlatformTag="338" PlatformNo="18407" Name="Valencia Blvd" />
+    <Platform PlatformTag="820" Name="Old Rock Rd &amp; Valencia Blvd" />
+  </PlatformGroup>
+  <PlatformGroup Name="Rio Norte Jr High">
+    <Platform PlatformTag="500" PlatformNo="11585" Name="Vista Del Rio Dr &amp; Parkside Dr" />
+    <Platform PlatformTag="501" PlatformNo="11193" Name="Copper Hill Dr &amp; Tesoro Del Valle Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="SC Metrolink">
+    <Platform PlatformTag="494" PlatformNo="13323" Name="Santa Clarita Metrolink" />
+    <Platform PlatformTag="496" PlatformNo="13334" Name="Commuter Wy &amp; Soledad Canyon Rd" />
+  </PlatformGroup>
+  <PlatformGroup Name="Santa Clarita">
+    <Platform PlatformTag="211" PlatformNo="10543" Name="Ave Stanford &amp; Technology Dr" />
+    <Platform PlatformTag="226" PlatformNo="10969" Name="Ave Scott &amp; Ave Stanford" />
+    <Platform PlatformTag="269" PlatformNo="19073" Name="Newhall Ave &amp; Sierra Hwy" />
+    <Platform PlatformTag="440" PlatformNo="10527" Name="McBean Pky &amp; Creekside Rd" />
+    <Platform PlatformTag="494" PlatformNo="13323" Name="Santa Clarita Metrolink" />
+    <Platform PlatformTag="496" PlatformNo="13334" Name="Commuter Wy &amp; Soledad Canyon Rd" />
+    <Platform PlatformTag="844" PlatformNo="19444" Name="McBean MRTC" />
+  </PlatformGroup>
+  <PlatformGroup Name="Santa Monica">
+    <Platform PlatformTag="853" PlatformNo="15293" Name="Ocean Ave &amp; CA-1" />
+  </PlatformGroup>
+  <PlatformGroup Name="Saugus High">
+    <Platform PlatformTag="568" PlatformNo="15650" Name="Centurion Wy &amp; Hyssop Ln" />
+  </PlatformGroup>
+  <PlatformGroup Name="Seco Canyon">
+    <Platform PlatformTag="543" PlatformNo="11528" Name="Seco Canyon Rd &amp; Guadilamar Dr" />
+    <Platform PlatformTag="585" PlatformNo="10493" Name="Tamarack Ln &amp; Lemon St" />
+    <Platform PlatformTag="785" PlatformNo="10602" Name="Seco Canyon Rd &amp; Decoro Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="Shadow Pines">
+    <Platform PlatformTag="315" PlatformNo="16009" Name="Faulkner Dr &amp; Thurber Wy" />
+    <Platform PlatformTag="739" PlatformNo="16148" Name="Shadow Pines Blvd &amp; Grandifloras Rd" />
+  </PlatformGroup>
+  <PlatformGroup Name="Shadow Valley">
+    <Platform PlatformTag="627" PlatformNo="16701" Name="Shadow Valley Ln &amp; Carson Ct" />
+  </PlatformGroup>
+  <PlatformGroup Name="Sierra Hwy">
+    <Platform PlatformTag="648" PlatformNo="19542" Name="Sierra Hwy &amp; Via Princessa" />
+    <Platform PlatformTag="718" PlatformNo="19535" Name="Soledad Canyon Rd &amp; Sierra Hwy" />
+  </PlatformGroup>
+  <PlatformGroup Name="Stevenson Ranch">
+    <Platform PlatformTag="315" PlatformNo="16009" Name="Faulkner Dr &amp; Thurber Wy" />
+    <Platform PlatformTag="328" PlatformNo="15480" Name="Stevenson Ranch Pky &amp; The Old Rd" />
+    <Platform PlatformTag="330" PlatformNo="16406" Name="Stevenson Ranch Pky &amp; The Old Rd" />
+    <Platform PlatformTag="697" PlatformNo="16084" Name="Soledad Canyon Rd &amp; Whites Canyon Rd" />
+    <Platform PlatformTag="718" PlatformNo="19535" Name="Soledad Canyon Rd &amp; Sierra Hwy" />
+  </PlatformGroup>
+  <PlatformGroup Name="Sylmar Metrolink">
+    <Platform PlatformTag="104" PlatformNo="13038" Name="Frank Modugno Dr &amp; Village Wy Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="Tamarck/Copperhill">
+    <Platform PlatformTag="585" PlatformNo="10493" Name="Tamarack Ln &amp; Lemon St" />
+  </PlatformGroup>
+  <PlatformGroup Name="Tourney Rd">
+    <Platform PlatformTag="388" PlatformNo="16992" Name="Magic Mountain Pky &amp; Avignon Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="Transit Centre">
+    <Platform PlatformTag="401" PlatformNo="14817" Name="Valencia Blvd &amp; McBean Pky" />
+    <Platform PlatformTag="844" PlatformNo="19444" Name="McBean MRTC" />
+  </PlatformGroup>
+  <PlatformGroup Name="Val Verde">
+    <Platform PlatformTag="172" PlatformNo="19278" Name="San Martinez Rd &amp; Val Verde Rd" />
+    <Platform PlatformTag="176" PlatformNo="11247" Name="Chiquito Canyon Rd" />
+  </PlatformGroup>
+  <PlatformGroup Name="Valencia High">
+    <Platform PlatformTag="451" Name="Ave Tibbitts &amp; Nth Dickason Dr" />
+    <Platform PlatformTag="470" PlatformNo="11155" Name="Nth Dickason Dr &amp; Decoro Dr" />
+  </PlatformGroup>
+  <PlatformGroup Name="Valle Del Oro">
+    <Platform PlatformTag="273" PlatformNo="14413" Name="Newhall Ave &amp; Valle Del Oro" />
+  </PlatformGroup>
+  <PlatformGroup Name="Vasquez Cyn">
+    <Platform PlatformTag="315" PlatformNo="16009" Name="Faulkner Dr &amp; Thurber Wy" />
+    <Platform PlatformTag="738" PlatformNo="17351" Name="Sierra Hwy &amp; Vasquez Canyon Rd" />
+  </PlatformGroup>
+  <PlatformGroup Name="Warner Center">
+    <Platform PlatformTag="134" PlatformNo="11036" Name="Topanga Canyon Blvd &amp; Victory Blvd" />
+    <Platform PlatformTag="797" Name="Victory Blvd &amp; Topanga Canyon Blvd" />
+    <Platform PlatformTag="823" Name="Victory Blvd &amp; Topanga Canyon Blvd" />
+  </PlatformGroup>
+  <PlatformGroup Name="West Ranch High School">
+    <Platform PlatformTag="240" PlatformNo="10752" Name="Calgrove Blvd &amp; Creekside Dr" />
+    <Platform PlatformTag="338" PlatformNo="18407" Name="Valencia Blvd" />
+  </PlatformGroup>
+  <PlatformGroup Name="West Ranch/Rancho Pico">
+    <Platform PlatformTag="820" Name="Old Rock Rd &amp; Valencia Blvd" />
+  </PlatformGroup>
+  <PlatformGroup Name="Whites Cyn">
+    <Platform PlatformTag="686" PlatformNo="14935" Name="Heller Cir" />
+    <Platform PlatformTag="697" PlatformNo="16084" Name="Soledad Canyon Rd &amp; Whites Canyon Rd" />
+    <Platform PlatformTag="709" PlatformNo="18033" Name="Whites Canyon Rd &amp; Nadal St" />
+  </PlatformGroup>
+  <PlatformGroup Name="Wiley Cyn/Calgrove">
+    <Platform PlatformTag="240" PlatformNo="10752" Name="Calgrove Blvd &amp; Creekside Dr" />
+  </PlatformGroup>
+</PlatformGroups>

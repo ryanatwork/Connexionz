@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<RoutePositionET xmlns="urn:connexionz-co-nz">
+  <Content Expires="2011-08-27T20:00:01-07:00" MaxArrivalScope="30" />
+  <Platform PlatformTag="430" Name="McBean Pky &amp; Town Center Dr">
+    <Route RouteNo="2" Name="Whites Cyn/Val Verde">
+      <Destination Name="Val Verde">
+        <Trip ETA="10" WheelchairAccess="true" />
+      </Destination>
+    </Route>
+    <Route RouteNo="4" Name="Bouquet Cyn/Newhall Metrolink">
+      <Destination Name="LARC">
+        <Trip ETA="7" WheelchairAccess="true" />
+      </Destination>
+    </Route>
+    <Route RouteNo="6" Name="Stevenson Ranch/Shadow Pines">
+      <Destination Name="Shadow Pines">
+        <Trip ETA="29" WheelchairAccess="true" />
+      </Destination>
+    </Route>
+  </Platform>
+</RoutePositionET>
