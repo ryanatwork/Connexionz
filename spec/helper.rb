@@ -4,3 +4,4 @@ require 'simplecov'
 SimpleCov.start
 require 'connexionz'
 require 'rspec'
+require 'webmock/rspec'
