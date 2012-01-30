@@ -27,6 +27,6 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'hashie', '~> 1.2.0'
   gem.add_runtime_dependency 'multi_json', '~> 1.0.4'
   gem.add_runtime_dependency 'multi_xml', '~> 0.4.1'
-  gem.add_runtime_dependency 'patron', '~> 0.4.16'
+  gem.add_runtime_dependency 'patron', '~> 0.4.17'
   gem.add_runtime_dependency 'rash', '~> 0.3.0'
 end
