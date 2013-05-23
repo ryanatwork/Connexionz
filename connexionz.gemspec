@@ -23,7 +23,7 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'webmock'
 
   gem.add_runtime_dependency 'faraday', '~> 0.8.4'
-  gem.add_runtime_dependency 'faraday_middleware', '~> 0.8.4'
+  gem.add_runtime_dependency 'faraday_middleware', '~> 0.9.0'
   gem.add_runtime_dependency 'hashie', '~> 1.2.0'
   gem.add_runtime_dependency 'multi_xml', '~> 0.4.1'
   gem.add_runtime_dependency 'patron', '~> 0.4.17'
